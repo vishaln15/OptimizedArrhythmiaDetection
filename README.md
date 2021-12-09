@@ -10,8 +10,8 @@ This repository contains code for the implementation of the paper titled "End-to
 
 ## Architecture
 
-<p>
-    <img src="assets/deployment_diagram.png" width="500" alt="Pipeline Architecture">
+<p align="center">
+    <img src="assets/deployment_diagram.png" width="450" alt="Pipeline Architecture">
 </p>
 
 ## Publication Link
