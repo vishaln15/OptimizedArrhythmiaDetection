@@ -1,4 +1,4 @@
-# OptimizedArrhythmiaDetection
+# End-to-End Optimized Arrhythmia Detection Pipeline using Machine Learning for Ultra-Edge Devices
 
 ## Description
 
